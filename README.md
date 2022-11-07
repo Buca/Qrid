@@ -1,7 +1,7 @@
 ## Roadmap
 
 - [ ] Introduction/Readme
-- [ ] Build Procedure
+- [ ] Build procedure
 - [ ] Documentation
 - [ ] Tests
 - [ ] Many optimazitions
