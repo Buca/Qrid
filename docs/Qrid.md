@@ -1,10 +1,3 @@
-<sub><sup>`new` constructor,
-:small_blue_diamond: instance method,
-:small_orange_diamond: instance property,
-:arrow_right_hook: input/argument,
-:arrow_right: output,
-:scroll: example.</sup></sub>
-
 # Qrid
 ---
 ## <a name="table-of-contents"></a> Table of Contents
